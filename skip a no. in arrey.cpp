@@ -6,7 +6,7 @@ int main (){
 	for(int i=0;i<=6;i++){
 		if(arr[i]!=40){
 			cout<<arr[i]<<endl;
-		}
+	}
 		
 	}
 
