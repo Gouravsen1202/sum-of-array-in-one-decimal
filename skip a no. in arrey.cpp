@@ -7,7 +7,7 @@ int main (){
 		if(arr[i]!=40){
 			cout<<arr[i]<<endl;
 	}
-		
+		 
 	}
 
 }
