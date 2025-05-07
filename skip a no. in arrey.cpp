@@ -10,6 +10,6 @@ int main (){
 	}
 
 }
-//skip a program.....
+//skip a  program.....
 
 
